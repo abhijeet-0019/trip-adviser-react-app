@@ -1,0 +1,9 @@
+folder structue:
+app.js and index.js in same directory
+component is in the same directory as the index.js for smooth functioning
+
+-----
+getting the API key
+go to console.cloud.google.com
+create a new project
+get the api key
